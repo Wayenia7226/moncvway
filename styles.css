@@ -1,0 +1,50 @@
+.contenu {
+    /* background-color: lightskyblue; */
+    width: 700px;
+    margin: 15px auto;
+}
+
+
+.details {
+    /* background-color: lightpink; */
+    height: 230px;
+
+}
+
+div.details img {
+    height: 230px;
+    float: left;
+    border-radius: 50%;
+}
+
+.liste-details {
+    /* background-color: lightsalmon; */
+    float: left;
+    list-style-type: none;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.liste-details span{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.liste-details li{
+padding-bottom: 5px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.cv-section {
+    /* background-color: lightslategrey; */
+    padding-bottom: 10px;
+}
+
+hr {
+    border-color: blue;
+}
